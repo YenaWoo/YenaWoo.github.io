@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -20,7 +20,7 @@ title                    : "예나 지금이나"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "우예나"
-description              : "희희희희희"
+description              : "꿈 저장소"
 url                      : # the base hostname & protocol for your site e.g. "https://yenawoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "YenaWoo/YenaWoo.github.io"
@@ -104,7 +104,7 @@ author:
   name             : "우예나"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "외대부고 재학생"
-  location         : "대한민국, 경기도"
+  location         : "대한민국, 서울"
   email            : "21-20616@hafs.hs.kr"
   links:
     - label: "Email"
