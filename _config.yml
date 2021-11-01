@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "우예나"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "외대부고 재학생"
   location         : "대한민국, 서울"
   email            : "21-20616@hafs.hs.kr"
