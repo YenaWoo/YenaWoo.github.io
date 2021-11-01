@@ -1,1 +1,2 @@
-
+avatar: # path of avatar image. e.g.
+"/assets/images/avatar.png"
