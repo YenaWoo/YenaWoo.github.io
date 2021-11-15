@@ -7,7 +7,7 @@ layout: single
 
 ---
 ### ★ 가타카(GATTACA)
-![gattaca](/assets/images/gattaca.png) 
+![gattaca](/assets/images/gattaca.jpg) 
 인공수정으로 성은 물론 유전자까지 원하는대로 골라 '완벽한' 아이를 갖을 수 있는 시대에 관한 이야기이다. 이 세계에서 유전자는 곧 그 사람의 이력서나 마찬가지다. 가타카는 자연적인 임신과 수정을 거쳐 태어난 부적격자 빈센트의 이야기이다. 
 ---
 ### ★ 아일랜드(The Island)
