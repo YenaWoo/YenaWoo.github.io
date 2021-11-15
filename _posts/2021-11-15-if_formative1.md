@@ -18,9 +18,9 @@ int main(void)
   
  result=(year-month+day)%10; 
  if(result==0) 
- printf("당신의 사주는 대박입니다.\n");
+  printf("당신의 사주는 대박입니다.\n");
  else 
- printf("당신의 사주는 그럭저럭입니다.\n"); 
+  printf("당신의 사주는 그럭저럭입니다.\n"); 
  return 0; 
 }
 ~~~
@@ -35,12 +35,12 @@ int main(void)
  scanf("%d,%d,%d",&tunnul_1,&tunnul_2,&tunnul_3); 
  if(tunnul_1<=170) 
   printf("충돌 %d", tunnul_1); 
-  else if(tunnul_2<=170) 
+ else if(tunnul_2<=170) 
   printf("충돌 %d", tunnul_2); 
-   else if(tunnul_3<=170) 
-   printf("충돌 %d", tunnul_3); 
-  else 
-   printf("무사 통과"); 
+ else if(tunnul_3<=170) 
+  printf("충돌 %d", tunnul_3); 
+ else 
+  printf("무사 통과"); 
  return 0; 
 }
 ~~~
@@ -63,9 +63,9 @@ int main(void)
  else 
  { 
  if((year%4==0 && year%100!=0) || year%400==0)
- printf("29일"); 
+  printf("29일"); 
  else 
- printf("28일"); 
+  printf("28일"); 
  } 
  printf("입니다.\n"); 
  return 0; 
