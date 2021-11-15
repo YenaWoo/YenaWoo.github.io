@@ -1,6 +1,9 @@
 ---
 title: "생명과학을 소재로 한 영화"
 layout: single
+toc: true
+toc_sticky: true
+toc_label: "페이지 주요 목차"
 ---
 
 생명과학 및 유전공학을 색다른 소재를 활용하여 흥미롭게 다룬 영화 몇 편을 소개하고자 한다.
